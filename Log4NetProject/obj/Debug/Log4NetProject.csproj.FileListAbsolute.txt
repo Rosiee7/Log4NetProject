@@ -1,0 +1,11 @@
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\log4net.config
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\Log4NetProject.exe.config
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\Log4NetProject.exe
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\Log4NetProject.pdb
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\log4net.dll
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\bin\Debug\log4net.xml
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\obj\Debug\Log4NetProject.csproj.AssemblyReference.cache
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\obj\Debug\Log4NetProject.csproj.CoreCompileInputs.cache
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\obj\Debug\Log4NetProject.csproj.CopyComplete
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\obj\Debug\Log4NetProject.exe
+C:\Users\meyta\source\repos\Log4NetProject\Log4NetProject\obj\Debug\Log4NetProject.pdb
